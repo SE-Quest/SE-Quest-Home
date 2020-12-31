@@ -6,4 +6,4 @@ Technical Questions :
 Timing:
   45 minutes {10 questions}
 
-    Friends you might little bit changes in patterns on appearing Interview. 
+    Friends you might Observe little bit changes in patterns on appearing Interview. 
