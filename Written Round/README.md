@@ -3,6 +3,7 @@ Round One:
   
   IN ZOHO:-
     
-    APTITUDE: Problems on average, probability, time & distance, alligation&mixture,ratio, HCF & LCM and few a puzzles. [1 hr and 20 minutes-20 questions]
+    APTITUDE: Problems on average, probability, time & distance, alligation&mixture,ratio, HCF & LCM and few a puzzles. [1 hr and 20 minutes-20 questions] or FlowChart are asked. 
     
     TECHNICAL: Output for C questions. [45 minutes-10 questions]
+      Technical round is most important Round
