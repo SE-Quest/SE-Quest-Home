@@ -6,4 +6,4 @@ Aptitude Question :
 Timing :
   1 hr and 20 minutes {20 questions}
   
-    Friends you might little bit changes on patterns on appearing Interview. 
+    Friends you might little bit changes in patterns on appearing Interview. 
