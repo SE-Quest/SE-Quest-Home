@@ -7,3 +7,4 @@ Round One:
     
     TECHNICAL: Output for C questions. [45 minutes-10 questions]
       Technical round is most important Round
+  ZOHO **Won't give 'options' for the Question** {NO OPTIONS!!!} 
