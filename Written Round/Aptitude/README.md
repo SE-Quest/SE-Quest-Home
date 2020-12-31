@@ -7,3 +7,6 @@ Timing :
   1 hr and 20 minutes {20 questions}
   
     Friends you might Observe little bit changes in patterns on appearing Interview. 
+
+
+  ZOHO **Won't give 'options' for the Question** {NO OPTIONS!!!} 
