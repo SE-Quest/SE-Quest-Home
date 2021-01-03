@@ -16,7 +16,7 @@
 Length = l
 Candle 1 = 6 hour
 Candle 2 = 4 hour
-
+<div>
 When Time pass Length decease -> l/X_hour
 
 When Length of Candle become half -> l/2
@@ -34,7 +34,7 @@ solution (candle 1):
  => l = 6/2
 
  => l = 3
-   
+</div>
    ## ANS: 3
 ### The answer can be find easily by dividing 6 hour(candle 1) by 2 gives 3 {6/2 = 3}
 ## When candle 1 become half 3 hour passes
@@ -42,4 +42,3 @@ solution (candle 1):
 ##### The Extra data are given to confuse us.
 
 - - - -
-
