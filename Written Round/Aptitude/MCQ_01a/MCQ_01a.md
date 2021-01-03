@@ -50,14 +50,20 @@ solution (candle 1):
 
 ### Explanation :-
   Speed = Distance / Time
+  
   Distance =Speed x Time
   
-  #### Here they give speed in km/hr and time in seconds so change km/hr(speed) to km/s they Ask answer in meter so its good to convert **km/hr to m/s**
-  ## ANS: 
+  #### Here they give speed in km/hr and time in seconds so change km/hr(speed) to km/s they Ask answer in meter so its good to convert 'km/hr to m/s'
+  1 km = 1000m
 
-## 
-
-##### 
+  1 h = 3600 s
+  
+  So 1km /h = 1000/3600 = 5/18 
+  60km /h = (60 x 5) /18 
+  Solution :
+    Distance(Length of the Train) = (60 x 5 x 9) /18 = 150
+    
+  ## ANS: 150
 
 - - - -
 
