@@ -18,7 +18,9 @@ Candle 1 = 6 hour
 Candle 2 = 4 hour
 
 When Time pass Length decease -> l/X_hour
+
 When Length of Candle become half -> l/2
+
 solution (candle 1):
 
  => l/2 - l/6
