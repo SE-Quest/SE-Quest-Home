@@ -10,7 +10,7 @@
 ### Explanation :-
 ##### Logical Explanation :
    
- 
+ ![](ref_img/aptitude/mcqa01_1.svg)
 
 
 
