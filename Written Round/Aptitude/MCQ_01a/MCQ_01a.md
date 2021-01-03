@@ -10,7 +10,7 @@
 ### Explanation :-
 ##### Logical Explanation :
    
- ![](ref_img/aptitude/mcqa01_1.svg)
+ ![](SE-Quest/SE-Quest-Home/blob/main/Written%20Round/ref_img/aptitude/mcqa01_1.svg)
 
 
 
