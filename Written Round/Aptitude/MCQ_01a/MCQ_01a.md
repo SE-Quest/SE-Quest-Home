@@ -14,7 +14,9 @@
 #### Theoretical Explanation :
   
 Length = l
+
 Candle 1 = 6 hour
+
 Candle 2 = 4 hour
 
 When Time pass Length decease -> l/X_hour
