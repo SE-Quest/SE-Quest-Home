@@ -29,18 +29,18 @@ Candle 1 = 6 hour
   - 100m
 
 ### Explanation :-
-  Speed = Distance / Time
-  
-  Distance =Speed x Time
+    Speed = Distance / Time
+
+    Distance =Speed x Time
   
   #### Here they give speed in km/hr and time in seconds so change km/hr(speed) to km/s they Ask answer in meter so its good to convert 'km/hr to m/s'
-  1 km = 1000m
+    1 km = 1000m
 
-  1 h = 3600 s
-  
-  So 1km /h = 1000/3600 = 5/18 
-  
-  60km /h = (60 x 5) /18 
+    1 h = 3600 s
+
+    So 1km /h = 1000/3600 = 5/18 
+
+    60km /h = (60 x 5) /18 
   
   Solution :
   
@@ -57,11 +57,11 @@ Candle 1 = 6 hour
 
 ### Explanation :-
 
-  Speed = X
-  
-  Speed = Distance / Time
-  
-  Time = Distance / Speed
+    Speed = X
+
+    Speed = Distance / Time
+
+    Time = Distance / Speed
   
   For Hyundai:
   
@@ -105,20 +105,20 @@ Candle 1 = 6 hour
   - 12
 
 ### Explanation :-
- 
-  A = B + 2
-  B = 2 x C
-  C = B / 2
-  
-  A + B + C = 27
-  
-  B + 2 + B + (B / 2) = 27
-  
-  2B + 4 + 2B + B = 54
-  
-  5B = 54 - 4
-  
-  B = 50 / 5 = 10
+
+    A = B + 2
+    B = 2 x C
+    C = B / 2
+
+    A + B + C = 27
+
+    B + 2 + B + (B / 2) = 27
+
+    2B + 4 + 2B + B = 54
+
+    5B = 54 - 4
+
+    B = 50 / 5 = 10
   
 #### Age of B is 10
 ## ANS: 10
@@ -199,7 +199,7 @@ Candle 1 = 6 hour
 
 - - - -
 
-#### [05] 
+#### [] 
   - 
   - 
   - 
