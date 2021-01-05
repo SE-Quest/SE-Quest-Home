@@ -218,17 +218,20 @@ Candle 1 = 6 hour
 
 - - - -
 
-#### [08] 
-  - 
-  - 
-  - 
+#### [08] 12 Monkeys can eat 12 Bananas in 12 Minutes. In how many minutes can 5 Monkeys 5 Bananas? 
+  - 12
+  - 17
+  - 5
 
 ### Explanation :-
  
-
+  12 monkeys can eat 12 bananas in 12 minutes.
   
-#### 
-## ANS: 
+  1 monkeys can eat 1 bananas in 12 minutes.
+  
+  #### Then 5 monkeys can eat 5 bananas in 12 minutes.
+ 
+## ANS: 12
 
 - - - -
 
