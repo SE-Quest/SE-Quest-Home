@@ -1,5 +1,5 @@
-<a name = "#top"><a>
 # MCQ_01_A
+  <a name = "#top"> <a>
 
 #### [01] There are two Candles of equal length with diffrent thickness, Burns together. If 1st Candle takes 6 hour to burn completely and 2nd candle takes 4 hour to burn completely. Find how many hour 2nd Candle become half of the 1st Candle? (முதல் மெழுகுவர்த்தி பாதியாக மாறும் போது இரண்டாவது மெழுகுவர்த்தி எத்தனை மணி நேரம் எரிந்திருகும்) 
   - 6
@@ -185,7 +185,40 @@ Candle 1 = 6 hour
 
 - - - -
 
-#### [07] 
+#### [07] A property was originally on a 66 years of lease and two third of the time passed is equal to the four fifth of the time to come. How many years are there to go?  
+  - 30
+  - 66
+  - 36
+
+### Explanation :-
+ 
+    Time passed = X
+    
+    Time come = y
+    
+    X + y = 66 -------------> (1)
+    
+    x[2/3] = y[4/5]
+    
+    X = y[4/5] x [3/2]
+    
+    X = y[6/5] -------------> (2)
+    
+    Apply equation (2) in (1)
+    
+    y[6/5] + y = 66
+    
+    6y + 5y = 66 x 5
+    
+    y = (66 x 5)/11
+    
+    y = 30
+  
+## ANS: 30
+
+- - - -
+
+#### [08] 
   - 
   - 
   - 
@@ -199,7 +232,21 @@ Candle 1 = 6 hour
 
 - - - -
 
-#### [] 
+#### [09] 
+  - 
+  - 
+  - 
+
+### Explanation :-
+ 
+
+  
+#### 
+## ANS: 
+
+- - - -
+
+#### [10] 
   - 
   - 
   - 
