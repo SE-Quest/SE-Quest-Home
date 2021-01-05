@@ -133,21 +133,21 @@ Candle 1 = 6 hour
 
 ### Explanation :-
  
-  Captain = c = 27
-  
-  Vice Captain = v.c = 27 + 3 = 30
-  
-  Average Age = avg = X
-  
-  11X - 27 - 30 = 9(X-1)
-  
-  11X - 57 = 9X - 9
-  
-  11X - 9X = 57 - 9
-  
-  2X = 48
-  
-  X = 24
+    Captain = c = 27
+
+    Vice Captain = v.c = 27 + 3 = 30
+
+    Average Age = avg = X
+
+    11X - 27 - 30 = 9(X-1)
+
+    11X - 57 = 9X - 9
+
+    11X - 9X = 57 - 9
+
+    2X = 48
+
+    X = 24
   
 #### Average Age of Whole Team is 24
 ## ANS: 24
@@ -161,19 +161,25 @@ Candle 1 = 6 hour
 
 ### Explanation :-
   
-  55% - 45% = 10% => 7 [Given in Question]
-  
-  Total marks = X
-  
-  (10 / 100)X = 7
-  
-  X = 70 {Total Mark}
-  
-  55% of 70 = 0.55 × 70 = 38.5 
-  
-  45% of 70 = 0.45 × 70 = 31.5
+    Consider two students as A & B
 
-  
+    A = B + 7
+
+    A - B = 7
+
+    55% - 45% = 10% => 7 [Given in Question, One person secure 10% or 7 mark more than other] 
+
+    Total marks = X
+
+    10% of X is 7
+
+    (10 / 100)X = 7
+
+    X = 70 {Total Mark}
+
+    55% of 70 = 0.55 × 70 = 38.5 
+
+    45% of 70 = 0.45 × 70 = 31.5
 
 ## ANS: 38.5 and 31.5
 
