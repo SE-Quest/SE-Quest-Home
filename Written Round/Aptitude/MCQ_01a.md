@@ -235,30 +235,42 @@ Candle 1 = 6 hour
 
 - - - -
 
-#### [09] 
-  - 
-  - 
-  - 
+#### [09] For a car these are 5 tires including one spare tire all tires are equally used. If the total distance travelled by the car is 25000km then what is the average distance travelled by the each tire?
+  - 20005
+  - 25000
+  - 20000
 
 ### Explanation :-
- 
+##### Logical Explanation :
+  ![](https://github.com/SE-Quest/SE-Quest-Home/blob/main/Written%20Round/ref_img/aptitude/mcqa01_9.svg)  
 
-  
-#### 
-## ANS: 
+#### Theoretical Explanation :
+    25000 x [4/5] = 20000km
+    
+
+## ANS: 20000km
 
 - - - -
 
-#### [10] 
+#### [10] A and B inverst in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is 855, the total profit is?
   - 
   - 
   - 
 
 ### Explanation :-
- 
+    Total Profit = X
+    
+    If 5% goes to a charity then remaining is 95% 
+    
+    Total share is 3 + 2 = 5 [3:2]
+    
+    [95/100]X x [3/5] = 855
+    
+    X = 855 x [5/3] x [100/95]
+    
+    X = 1500
 
   
-#### 
-## ANS: 
+## ANS: 1500
 
 - - - -
