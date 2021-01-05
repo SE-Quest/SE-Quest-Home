@@ -253,9 +253,9 @@ Candle 1 = 6 hour
 - - - -
 
 #### [10] A and B inverst in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is 855, the total profit is?
-  - 
-  - 
-  - 
+  - 860
+  - 1500
+  - 1000
 
 ### Explanation :-
     Total Profit = X
