@@ -124,3 +124,85 @@ Candle 1 = 6 hour
 ## ANS: 10
 
 - - - -
+
+
+#### [05] The captain of foodball team of 11 members is 27 years old and vice captain is 3 years older than captain. If the ages of these two excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?
+  - 30
+  - 27
+  - 24
+
+### Explanation :-
+ 
+  Captain = c = 27
+  
+  Vice Captain = v.c = 27 + 3 = 30
+  
+  Average Age = avg = X
+  
+  11X - 27 - 30 = 9(X-1)
+  
+  11X - 57 = 9X - 9
+  
+  11X - 9X = 57 - 9
+  
+  2X = 48
+  
+  X = 24
+  
+#### Average Age of Whole Team is 24
+## ANS: 24
+
+- - - -
+
+#### [06] Two students are appearing at an examination one of them secure 7 marks more than the other and his mark wad 55% of the sum of their marks. What are the marks obtained by them? 
+  - 38.5 and 31.5
+  - 30 and 45
+  - 45 and 55
+
+### Explanation :-
+  
+  55% - 45% = 10% => 7 [Given in Question]
+  
+  Total marks = X
+  
+  (10 / 100)X = 7
+  
+  X = 70 {Total Mark}
+  
+  55% of 70 = 0.55 × 70 = 38.5 
+  
+  45% of 70 = 0.45 × 70 = 31.5
+
+  
+
+## ANS: 38.5 and 31.5
+
+- - - -
+
+#### [07] 
+  - 
+  - 
+  - 
+
+### Explanation :-
+ 
+
+  
+#### 
+## ANS: 
+
+- - - -
+
+#### [05] 
+  - 
+  - 
+  - 
+
+### Explanation :-
+ 
+
+  
+#### 
+## ANS: 
+
+- - - -
