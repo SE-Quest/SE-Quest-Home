@@ -274,3 +274,6 @@ Candle 1 = 6 hour
 ## ANS: 1500
 
 - - - -
+
+# These questions are taken from a YT VIDEO to view the original creater video click the below blue text!
+[Original Creater's Video](https://youtu.be/x5G14pldJF0)
