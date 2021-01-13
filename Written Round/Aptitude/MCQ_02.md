@@ -12,7 +12,7 @@
   
   ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20x%5Ctimes%20y%3D2400)
   
-  ![]()
+  ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20y%3D%5C%20%5Cfrac%7B2400%7D%7Bx%7D%5C%20%5C%20%5C%20%5C%20%5C%20%5C%20----%5Cto%20%281%29)
 
  
 ### 
