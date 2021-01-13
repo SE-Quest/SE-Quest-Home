@@ -10,7 +10,7 @@
    Let 'x' be the number of perons in the group
    Let 'y' be amount per head which they have to pay
   
-  ![eq](https://latex.codecogs.com/gif.latex?x%5C%20%5Ctimes%20y%3D2400%5C)
+  ![eq](https://latex.codecogs.com/gif.latex?%5Cinline%20%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20x%5Ctimes%20y%3D2400)
 
  
 ### 
