@@ -43,7 +43,7 @@
 
 - - - -
 
-#### [02] 
+#### [02] A group of friends went on a holiday to a hill station. It rained for 13 days. But when it rained in the morning, the afternoon was lovely. And when it rained in the afternoon, the day was preceded by clear morning. Altogether there were 11 very nice mornings and 12 very nice afternoons. How many days did their holiday last ?
   - 
   - 
   - 
