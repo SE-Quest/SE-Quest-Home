@@ -72,16 +72,68 @@
 
 - - - -
 
-#### [03] 
-  - 
-  - 
-  - 
+#### [03] There are 3 jars of different sizes.one jar holds 8 liters of milk and it is full of milk, the other 2 jars of 5 liters and 3 liters are empty. There is no measuring level or marks in all the jars Juggle between these 3 jars and get 2 jars containing 4 litres each at the end.
+
+### Explanation :-
+  Jar sizes ---> 8 5 3
+  
+    Step 1: 8 0 0
+    
+    Step 2: 3 5 0
+    
+    Step 3: 3 2 3
+    
+    Step 4: 6 2 0
+    
+    Step 5: 6 0 2
+    
+    Step 6: 1 5 2
+    
+    Step 7: 1 4 3
+    
+    Step 8: 4 4 0
+  
+- - - -
+
+#### [04] If A:B =5:9, B:C=3:8 then A:B:C ?
+  - 5:9:14
+  - 5:9:24
+  - 5:9:11
+### Explanation :-
+
+    A=5 , B=9
+   
+ ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5Chuge%20%5Cfrac%7BB%7D%7BC%7D%5C%20%3D%5C%20%5Cfrac%7B3%7D%7B8%7D%5C)
+ 
+ ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5Chuge%20%5Cfrac%7B9%7D%7BC%7D%5C%20%3D%5C%20%5Cfrac%7B3%7D%7B8%7D%5C)
+ 
+    C = 24
+
+## ANS: 5:9:24
+
+- - - -
+
+#### [05] The LCM of two positive no’s is 168 and their product is 504. what is the difference in their squares?
+  - 216
+  - 175
+  - 135
 ### Explanation :-
   
+  ![](https://github.com/SE-Quest/SE-Quest-Home/blob/main/Written%20Round/ref_img/aptitude/mcqa02_5.svg)
+  
+  ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5Clarge%20504%5C%20%3D%5C%202%5Ctimes%202%5Ctimes%202%5Ctimes%203%5Ctimes%203%5Ctimes%207%5C%20%3D%5C%208%5Ctimes%203%5Ctimes%203%5Ctimes%207%5C%20%3D%5C%2024%5Ctimes%2021%5C)
+  
+  ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20168%5C%20%3D%5C%202%5Ctimes%202%5Ctimes%202%5Ctimes%203%5Ctimes%207%5C)
+  
+    To Find difference of their squares
+    
+  ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20a%5E2-%7B%5C%20b%7D%5E2%5C%20%3D%5C%20%28a&plus;b%29%28a-b%29%5C)
+  
+    = (24 + 21)(24 - 21)
+    = 135
 
-
-### 
-## ANS: 
+### Now the difference of the square of these numbers is 135
+## ANS: 135
 
 
 ##### 
