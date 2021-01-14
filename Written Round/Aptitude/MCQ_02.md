@@ -39,24 +39,47 @@
     Since 'x' denote the number of persons, it should be positive.So, x = 8. 
  
 ### There are 8 person in that group
-## ANS:8 
+## ANS: 8 
 
 - - - -
 
 #### [02] A group of friends went on a holiday to a hill station. It rained for 13 days. But when it rained in the morning, the afternoon was lovely. And when it rained in the afternoon, the day was preceded by clear morning. Altogether there were 11 very nice mornings and 12 very nice afternoons. How many days did their holiday last ?
-  - 
-  - 
-  - 
-
+  - 18
+  - 13
+  - 7
 ### Explanation :-
-##### Logical Explanation :
-  ![]()
- ANS: 
+  
+  The holiday last for 18 days.
+  Rain in the morning and lovely afternoon = X days
+  Clear morning and rain in the afternoon = Y days
+  No rain in the morning and in the afternoon = Z days
+  
+  Number of days with rain => X + Y = 13 days      -------->(1)
+  
+  Number of days with clear mornings => Y + Z = 11 days      -------->(2)      
+  
+  Number of days with clear afternoons => X + Z = 12 days      -------->(3)
+  
+  Solving above 3 equations, we get **X = 7, Y = 6 and Z = 5**
+  
+  X + Y + Z = 7 + 6 + 5 = 18
 
-#### Theoretical Explanation :
+### Their holiday last for 18 days.
+## ANS: 18
 
 
- 
+##### 
+
+- - - -
+
+#### [03] 
+  - 
+  - 
+  - 
+### Explanation :-
+  
+
+
 ### 
 ## ANS: 
 
