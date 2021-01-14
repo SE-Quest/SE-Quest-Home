@@ -35,7 +35,8 @@
   ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20%5Cmathrm%7B%28x-8%29%5C%20%28x&plus;6%29%5C%20%3D%5C%200%7D%5C)
   
   ![](https://latex.codecogs.com/png.latex?%5Cbg_white%20%5Cfn_cm%20%5CLARGE%20%5Cmathrm%7Bx%5C%20%3D%5C%208%5C%20%7D%5Cmathrm%7B%5C%20%7D%5Cmathrm%7Bor%7D%5Cmathrm%7B%5C%20%7D%5Cmathrm%7B%5C%20x%5C%20%3D%5C%20-%7D%5Cmathrm%7B6%7D%5C)
-  Since 'x' denote the number of persons, it should be positive.So, x = 8. 
+  
+    Since 'x' denote the number of persons, it should be positive.So, x = 8. 
  
 ### There are 8 person in that group
 ## ANS:8 
