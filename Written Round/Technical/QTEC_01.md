@@ -1,6 +1,7 @@
 # TEC_01
 
-#### [01] Eg 1: Input: a1b10
+#### [01] Write a program to give the following output for the given input
+####      Eg 1: Input: a1b10
 ####      ....Output: abbbbbbbbbb
 ####      Eg: 2: Input: b3c6d15
 ####      ....Output: bbbccccccddddddddddddddd
