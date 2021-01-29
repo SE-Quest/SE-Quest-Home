@@ -27,7 +27,7 @@ int main() {
             alpha = str[i];
         }
         
-        if (str[i] >= '0' && str[i] <= '9'){
+        else if (str[i] >= '0' && str[i] <= '9'){
             num = num*10+str[i]-48;
         }
         
@@ -41,3 +41,8 @@ int main() {
     return 0;
 }
 ```
+[To Experiment with Code Click Here It Will Bring You To A Free Online Compiler_1](https://www.onlinegdb.com/online_c_compiler)
+[Compiler_2](https://www.programiz.com/c-programming/online-compiler/)
+
+
+#### [02] 
