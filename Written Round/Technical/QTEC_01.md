@@ -50,15 +50,15 @@ int main() {
 
 #### [02] Input: ZOHOquest
 ####      Output:
-####      Z       Z
-####       O     O 
-####        H   H  
-####         O O   
-####          q    
-####         u u   
-####        e   e  
-####       s     s 
-####      t       t
+          Z       Z
+           O     O 
+            H   H  
+             O O   
+              q    
+             u u   
+            e   e  
+           s     s 
+          t       t
 
 
 ```c
