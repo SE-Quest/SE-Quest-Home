@@ -5,7 +5,10 @@
 ####      ....Output: abbbbbbbbbb
 ####      Eg: 2: Input: b3c6d15
 ####      ....Output: bbbccccccddddddddddddddd
+
+
 ```c
+
 #include <stdio.h>
 
 int main() {
@@ -40,9 +43,74 @@ int main() {
     
     return 0;
 }
+
 ```
-[To Experiment with Code Click Here It Will Bring You To A Free Online Compiler_1](https://www.onlinegdb.com/online_c_compiler)
-[Compiler_2](https://www.programiz.com/c-programming/online-compiler/)
+
+[To Experiment with Code Click Here It Will Bring You To A Free Online Compiler](https://www.onlinegdb.com/online_c_compiler)
+
+#### [02] Input: ZOHOquest
+####      Output:
+####      Z       Z
+####       O     O 
+####        H   H  
+####         O O   
+####          q    
+####         u u   
+####        e   e  
+####       s     s 
+####      t       t
 
 
-#### [02] 
+```c
+
+#include <stdio.h>
+#include <string.h>
+
+char str[50];
+int len;
+
+void PrintCrossPattern(){
+    //Understand the below code on this function to print your own cross string
+    int i,j;
+    
+    for(i=0; str[i]; i++){
+        for(j=0; str[j]; j++){
+            if(i==j){
+                printf("%c",str[i]);
+            }
+            else if(i+j==len){
+                printf("%c",str[i]);
+            }
+            else{
+                printf(" ");
+            }
+        }
+    printf("\n");
+    }
+}
+
+
+int main()
+{
+    while("TRUE"){
+        
+        printf("Enter a String: ");
+        scanf("%s",str);
+        len = strlen(str) - 1;
+        
+        if(len%2 == 0){
+            PrintCrossPattern();
+            break;
+        }
+        else{
+            printf("Please enter a Odd length string\n");
+        }
+    }
+    
+    return 0;
+    
+}
+
+```
+
+[To Experiment with Code Click Here It Will Bring You To A Free Online Compiler](https://www.onlinegdb.com/online_c_compiler)
