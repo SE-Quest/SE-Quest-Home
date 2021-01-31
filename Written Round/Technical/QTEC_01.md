@@ -141,11 +141,13 @@ int main() {
 
 ## ANS: main.c:8:19: error: lvalue required as left operand of assignment
 ##    if (year % 400 = 0) {
-##                   ^
+## ..................^
 
 ### Explanation :
   While checking for equality **double equal to (==)** need to be used. 
+  
   Correct code :
-     main.c:8:19: if (year % 400 == 0)
+    
+    main.c:8:19: if (year % 400 == 0)
 
 [To Experiment with Code Click Here It Will Bring You To A Free Online Compiler](https://www.onlinegdb.com/online_c_compiler)
