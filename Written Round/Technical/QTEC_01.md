@@ -114,3 +114,31 @@ int main()
 ```
 
 [To Experiment with Code Click Here It Will Bring You To A Free Online Compiler](https://www.onlinegdb.com/online_c_compiler)
+
+#### [03] Find output for the given program 
+
+```c
+
+#include <stdio.h>
+int main() {
+   int year;
+   printf("Enter a year: ");
+   scanf("%d", &year);
+
+   // leap year if perfectly dvisible by 400
+   if (year % 400 = 0) {
+      printf("%d is a leap year.", year);
+   }
+
+   else {
+      printf("%d is not a leap year.", year);
+   }
+
+   return 0;
+}
+
+```
+
+##ANS: main.c:8:19: error: lvalue required as left operand of assignment
+    if (year % 400 = 0) {
+                   ^
