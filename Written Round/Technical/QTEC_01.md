@@ -143,6 +143,7 @@ int main() {
 
 ## ANS: main.c:8:19: error: lvalue required as left operand of assignment
 if (year % 400 = 0) {
+
 ...............^
 
 ### Explanation :
