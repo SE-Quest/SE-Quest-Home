@@ -153,3 +153,10 @@ int main() {
     main.c:8:19: if (year % 400 == 0)
 
 [To Experiment with Code Click Here It Will Bring You To A Free Online Compiler](https://www.onlinegdb.com/online_c_compiler)
+
+#### [04] Find reverse of string (NOT AS WHOLE)
+#### Eg 1: Input: one two three
+#### ......Output: three two one
+#### Eg 2: Input: I love india
+#### ......Output: india love I 
+
